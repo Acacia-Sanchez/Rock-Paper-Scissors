@@ -1,27 +1,14 @@
 # Rock Paper Scissors
 
-Kata to practice with java
 
-
-## Requiered
-
-- Minimum Java 17
-## DevDependency
-- JUnit
-
-## Installation
-
-Just clone the Kata or fork it
-
-    
-## Instructions
+### Instructions
 
 > Create a Rock Paper Scissors game, which can be played with a number of rule sets and against both human and computer controlled players.
 
 - https://agilekatas.co.uk/katas/RockPaperScissors-Kata
 
 
-## Next Steps
+### Next Steps
 
 1. Add "Lizard" and "Spock" - Sheldon Version
 
